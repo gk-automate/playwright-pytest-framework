@@ -1,0 +1,13 @@
+# Virtual Environment & Python cache
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Playwright & Framework Artifacts
+.auth/
+reports/
+test-results/
+
+# Environment variables
+.env
